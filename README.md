@@ -2,7 +2,7 @@
 
 ---
 
-Build a todo list as a part of learing JavaScript journey to practice DOM manipulation and LocalStorage handling.
+This project is part of my JavaScript learning journey. It allows users to add, complete, and delete tasks while storing them in the browser using LocalStorage, so tasks remain available even after refreshing the page. The goal of this project was to gain hands-on experience with DOM manipulation, event handling, and browser storage APIs.
 
 ---
 
